@@ -1,0 +1,22 @@
+{
+    "name": "BlueGreenDarktheme",
+    "publisher": "Brant",
+    "displayName": "Blue Green Theme (Dark)",
+    "description": "Simple dark theme with blue and green accents.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Simple Blue & Green Theme (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme + Blue-color-theme.json"
+            }
+        ]
+    }
+}

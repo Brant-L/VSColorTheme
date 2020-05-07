@@ -1,3 +1,5 @@
-# VSColorTheme
+A simple dark color theme with blue and green accents.
 
-Repository to store version history for Visual Studio color theme.
+Hope you enjoy!
+
+![Preview](screen.PNG)
