@@ -1,2 +1,3 @@
-# VS-Code
-Repository to store version history for VS Code extensions.
+# VSColorTheme
+
+Repository to store version history for Visual Studio color theme.
